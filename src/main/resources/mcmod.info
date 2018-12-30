@@ -1,0 +1,15 @@
+[
+{
+  "modid": "firstmod",
+  "name": "My First Mod",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lucas"],
+  "credits": "Suppergerrie2's tutorial and the internet!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
